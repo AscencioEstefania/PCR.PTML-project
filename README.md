@@ -22,7 +22,7 @@ University of Basque Country (UPV/EHU), 48940, Leioa, Basque Country, Spain.
 7 BIOFISIKA Institute, Spanish National Research Council (CSIC) - 
 University of the Basque Country (UPV/EHU), 48940, Leioa, Basque Country, Spain.
 8 IKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Biscay, Spain.
-* Corresponding authors. humberto.gonzalezdiaz@ehu.es 
+
 
 
 # Abstract. 
