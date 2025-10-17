@@ -1,11 +1,11 @@
 # PCR.PTML-project
 
-# PCR.PTML Model and Experimental Data for aDNA Microbiome Sequences
+# PCR.PTML Artificial Intelligence-Eperimental Microbiome Analysis: Applications to Ancient DNA and Tree Soil Metagenomics Cases of Study.
 
 # Authors 
-José L.R. Rama 1, Estefania Ascencio-Medina 2,3,4,5, José Manuel Ageitos 1, Lucía Feijoo-Siota 1, Shan He 2,3,4,5, Amirreza Daghighi 2,3 Gerardo M. Casanola-Martin 2, Bakhtiyor Rasulev 2,3,
-Cristian R. Munteanu 4, Harbil Bediaga-Bañeres 5, Sonia Arrasate 6, 
-Tomas G. Villa1, *, and Humberto González-Díaz 6,7,8, *
+Jose L. Rodriguez.a#, Estefania Ascencio.b,c,d,e#, Jose M. Ageitos a, Lucia Feijoo a, Shan He b,c,e Amirreza Daghighi b,c, Gerardo Casanola b, Cristian R. Munteanu d, Santiago Rodriguez Yañezd*, Alejandro Pazosd, Harbil Bediagae Brenda Duran Ordialesf Raquel Estebanf,Ana-Maria Heres gh, Jorge Curiel Yusteg l, Lur Epeldei, Bakhtiyor Rasulev b,cTomas Gonzaleza ,Sonia Arrasate j, and Humberto  González j,k,,l *      
+
+
 
 # Affiliations 
 1Department of Microbiology and Parasitology, Faculty of Pharmacy, 
@@ -34,11 +34,8 @@ Ancient DNA Sequences, Perturbation Theory, Machine Learning, Shannon’s Inform
 
 # Authors Contributions
 
-José L.R. Rama, José Manuel Ageitos, Lucía Feijoo-Siota, and Tomas G. Villa DNA isolation, sequencing, alingment, and annotation, Paper Writing, Artworks.
-
-Estefania Ascencio-Medina, Amirreza Daghighi,Shan He, Gerardo Casañola Martin, Bakhtiyor Rasulev, Cristian R. Munteanu, Harbil Bediaga-Bañeres,Phyton scripting, Machine Learning, Data analysis, Paper Writing, Artworks.
-
-Sonia Arrasate, Humberto González-Díaz, Tomas G. Villa, Bakhtiyor Rasulev, Paper design, Funding attraction, Paper Writing Suppervision.
+José L.R. Rama, José Manuel Ageitos, Lucía Feijoo-Siota, and Tomás G. Villa: DNA isolation, sequencing, alignment, annotation, manuscript writing and figure preparation.
+Estefanía Ascencio-Medina, Amirreza Daghighi, Shan He, Gerardo Casañola Martín, Bakhtiyor Rasulev, Cristian R. Munteanu, Harbil Bediaga-Bañeres, Brenda Durán Ordiales, and Santiago Rodríguez Yáñez: Python scripting, machine learning model development, data analysis, manuscript writing, and figure preparation.Brenda Durán Ordiales, Raquel Esteban, Ana María Heres, Jorge Curiel Yuste, and Lur Epelde: Design and execution of the experimental methodology for the generation of the metagenomic data used in the SODDNA/SOHDNA model.Sonia Arrasate, Humberto González-Díaz, Tomás G. Villa, Alejandro Pazos, and Bakhtiyor Rasulev: Conceptualization of the study, supervision, manuscript writing, and funding acquisition.
 
 # Funding
-H.G-D. acknowledges financial support from grants MINECO (CTQ2016-74881-P), 2017 – 2019, and MICIIN (PID2019-104148GB-I00), 2020 – 2022, of Spain government and grant (IT1045-16), 2016 – 2021, and IT1558-22, 2022 – 2025, of Basque Government. Also, this project was funded by grants INCITE07PXI203141ES (Conselleria de Industria, Xunta de Galicia, Spain) and BFU2009-07745 (MINECO, Spain).  Likewise, the authors recognize the support of the National Science Foundation under the NSF MRI award OAC-2019077, and support by the State of North Dakota. CCAST HPC System supercomputing support at NDSU is acknowledged. In addition, the work was partly supported by Basque Government / Eusko Jaurlaritza (IT1558-22), SPRI ELKARTEK grants AIMOFGIF (KK-2022/00032), Ministry of Science and Innovation (PID2022-137365NB-I00), and LANBIDE, INVESTIGO, Eusko Jaurlaritza, Grants, IKERDATA 2022/IKER/000040 funded by NextGenerationEU funds of European Commission. 
+This project was funded by grants INCITE07PXI203141ES (Conselleria de Industria, Xunta de Galicia, Spain) and BFU2009-07745 (MINECO, Spain).  Likewise, the authors recognize the support of the National Science Foundation under the NSF MRI award OAC-2019077, and support by the State of North Dakota. CCAST HPC System supercomputing support at NDSU is acknowledged. In addition, the work was partly supported by Basque Government / Eusko Jaurlaritza (IT1558-22) and (IT1648-22), SPRI ELKARTEK grants AIMOFGIF (KK-2022/00032), Ministry of Science and Innovation (PID2022-137365NB-I00), and LANBIDE, INVESTIGO, Eusko Jaurlaritza, Grants, IKERDATA 2022/IKER/000040, funded by NextGenerationEU funds of European Commission,  likewise UDC Inditex Artificial Intelligence in Green Algorithms, funded by the Ministry for Digital Transformation and the Civil Service and 'NextGenerationEU'/PRTR under grant TSI-100925-2023-1 and Xunta de Galicia Consolidated group, grand ED431C 2022/46. JCY and RE are members of the Spanish climate-induced forest decline (ReDec) funded by MCIN/AEI (grant RED2024-153822-T).
